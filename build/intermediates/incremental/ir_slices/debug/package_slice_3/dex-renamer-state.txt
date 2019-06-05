@@ -1,0 +1,4 @@
+#Tue Jun 04 19:13:15 BRT 2019
+base.0=/Users/lucas.freitas/Desktop/Sensor TAG/SensorTag-CC2650-master/BleSensorTag/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
